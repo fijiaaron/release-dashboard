@@ -1,0 +1,20 @@
+{
+  "name": "release-dashboard",
+  "version": "0.0.1",
+  "description": "Release Dashboard",
+  "main": "app.js",
+  "scripts": {
+    "test": "testy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/fijiaaron/release-dashboard"
+  },
+  "keywords": [
+    "release",
+    "testing",
+    "continuous delivery"
+  ],
+  "author": "Aaron Evans",
+  "license": "proprietary"
+}
