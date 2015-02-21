@@ -16,5 +16,10 @@
     "continuous delivery"
   ],
   "author": "Aaron Evans",
-  "license": "proprietary"
+  "license": "proprietary",
+  "dependencies": {
+    "hapi": "~7.2.0",
+    "mocha": "~2.1.0",
+    "chai": "~2.0.0"
+  }
 }
